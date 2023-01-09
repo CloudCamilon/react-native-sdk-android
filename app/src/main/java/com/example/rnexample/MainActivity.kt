@@ -1,6 +1,6 @@
 package com.example.rnexample
 
-import com.company.rnsdk.RNSDKActivity
+import com.example.rnsdk.RNSDKActivity
 
 class MainActivity : RNSDKActivity() {
 
